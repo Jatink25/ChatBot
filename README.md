@@ -6,7 +6,7 @@ This project demonstrates basic chatbot logic, React components, and clean UI de
 ---
 
 ## 🚀 Live Demo
-https://chatbot545.netlify.app/
+https://chatbot534.netlify.app/
 
 ---
 
@@ -15,12 +15,11 @@ https://chatbot545.netlify.app/
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- React (CDN)
-- Babel
+- React (Vite)
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
 - User & bot message interface
 - Auto-scrolling chat window
