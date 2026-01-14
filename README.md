@@ -1,6 +1,6 @@
 # 🤖 ChatBot Web Application
 
-A simple and interactive chatbot web application built using **HTML, CSS, JavaScript, and React (via CDN)**.  
+A simple and interactive chatbot web application built with React (Vite), using HTML, CSS, and JavaScript.
 This project demonstrates basic chatbot logic, React components, and clean UI design.
 
 ---
