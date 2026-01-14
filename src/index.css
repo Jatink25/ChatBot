@@ -1,0 +1,15 @@
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: -1;
+}
+
+body {
+  background-image: url("./assets/final.jpeg");
+  background-size: cover;
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
